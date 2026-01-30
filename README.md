@@ -40,7 +40,7 @@ Voice Recognition Computer Control System
 
 🛠️ 기술 스택 (Tech Stack)
 - 개발 환경: Windows 11
-개발 언어: C# / Phython 3.11.5 / JavaScript
+- 개발 언어: C# / Phython 3.11.5 / JavaScript
 - 개발 도구: Visual Studio 2022 / Visual Studio Code / Jupyter Notebook / MySQL
 - 라이브러리 : Tensorflow / librosa / google.cloud.vision_v1(Google OCR api)
                azure.cognitiveservices.speech(AZURE STT api) / Node.js
