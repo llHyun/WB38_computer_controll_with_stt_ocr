@@ -1,0 +1,969 @@
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\obj\Debug\Client3.Form1.resources
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\pdypd\Desktop\테스트용\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\obj\Debug\Client3.Form1.resources
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\dydgh\OneDrive\문서\카카오톡 받은 파일\Client3 (1)\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.Form1.resources
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\user\Desktop\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.Form1.resources
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.Form2.resources
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.Form3.resources
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\BOOK7 Force\Downloads\1228_vr_0\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.Form1.resources
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.Form2.resources
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.Form3.resources
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\BOOK7 Force\Downloads\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.Form1.resources
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.Form2.resources
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.Form3.resources
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\dl184\OneDrive\바탕 화면\도현파일\로그인, 회원가입(진짜 배포용)\로그인, 회원가입\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.MainForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.SignupForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\tt_v.2\tt_v.2\cccllliiieeennnttt\Client3 (1)\Client3\Client3\obj\Debug\Client3.LoginForm.resources
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\obj\Debug\Client3.MainForm.resources
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\obj\Debug\Client3.SignupForm.resources
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\obj\Debug\Client3.LoginForm.resources
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\obj\Debug\Client3.WinForm.WithdrawForm.resources
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\BOOK7 Force\Downloads\23_v1.4\Client3\Client3\obj\Debug\Client3.WinForm.UpdateForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\obj\Debug\Client3.MainForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\obj\Debug\Client3.SignupForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\obj\Debug\Client3.LoginForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\obj\Debug\Client3.WinForm.UpdateForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\obj\Debug\Client3.WinForm.WithdrawForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\dl184\OneDrive\바탕 화면\23_v1.4.1\23_v1.4\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\obj\Debug\Client3.WinForm.KeySetForm.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\obj\Debug\Client3.WinForm.MacroSetForm.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\obj\Debug\Client3.MainForm.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\obj\Debug\Client3.WinForm.progress.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\obj\Debug\Client3.RecordForm.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\obj\Debug\Client3.SignupForm.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\obj\Debug\Client3.LoginForm.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\obj\Debug\Client3.WinForm.Stt_Form.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\obj\Debug\Client3.WinForm.UpdateForm.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\obj\Debug\Client3.WinForm.WithdrawForm.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\AutoItX3.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\AutoItX3_x64.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\pdypd\Desktop\project\TT_V_3.8\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\AutoItX3.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\AutoItX3_x64.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\obj\Debug\Client3.WinForm.KeySetForm.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\obj\Debug\Client3.WinForm.MacroSetForm.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\obj\Debug\Client3.MainForm.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\obj\Debug\Client3.WinForm.progress.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\obj\Debug\Client3.RecordForm.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\obj\Debug\Client3.SignupForm.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\obj\Debug\Client3.LoginForm.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\obj\Debug\Client3.WinForm.Stt_Form.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\obj\Debug\Client3.WinForm.UpdateForm.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\obj\Debug\Client3.WinForm.WithdrawForm.resources
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\pdypd\Desktop\project\TT_V_3.7.99999\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\AutoItX3.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\AutoItX3_x64.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\obj\Debug\Client3.WinForm.KeySetForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\obj\Debug\Client3.WinForm.MacroSetForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\obj\Debug\Client3.MainForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\obj\Debug\Client3.WinForm.progress.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\obj\Debug\Client3.RecordForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\obj\Debug\Client3.SignupForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\obj\Debug\Client3.LoginForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\obj\Debug\Client3.WinForm.Stt_Form.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\obj\Debug\Client3.WinForm.UpdateForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\obj\Debug\Client3.WinForm.WithdrawForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_3.7.9.2\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\AutoItX3.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\AutoItX3_x64.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.WinForm.GuideForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.WinForm.KeySetForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.WinForm.MacroSetForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.MainForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.WinForm.Progress.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.RecordForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.SignupForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.LoginForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.WinForm.Stt_Form.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.WinForm.UpdateForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.WinForm.WithdrawForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\AutoItX3.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\AutoItX3_x64.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.WinForm.GuideForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.WinForm.KeySetForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.WinForm.MacroSetForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.MainForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.WinForm.Progress.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.RecordForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.SignupForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.LoginForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.WinForm.Stt_Form.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.WinForm.UpdateForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.WinForm.WithdrawForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\BOOK7 Force\Downloads\TT_V_4.2\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\AutoItX3.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\AutoItX3_x64.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.WinForm.GuideForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.WinForm.KeySetForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.WinForm.MacroSetForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.MainForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.WinForm.Progress.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.RecordForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.SignupForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.LoginForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.WinForm.Stt_Form.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.WinForm.UpdateForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.WinForm.WithdrawForm.resources
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\BOOK7 Force\Downloads\TT_V_4.3\TT_V_4.3\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\AutoItX3.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\AutoItX3_x64.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.WinForm.GuideForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.WinForm.KeySetForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.WinForm.MacroSetForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.MainForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.WinForm.Progress.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.RecordForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.SignupForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.LoginForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.WinForm.Stt_Form.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.WinForm.UpdateForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.WinForm.WithdrawForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\dl184\OneDrive\바탕 화면\TT_V_4.4\TT_V_4.4\TT_V_4.4\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\AutoItX3.dll
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\AutoItX3_x64.dll
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.WinForm.GuideForm.resources
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.WinForm.KeySetForm.resources
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.WinForm.MacroSetForm.resources
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.MainForm.resources
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.WinForm.Progress.resources
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.RecordForm.resources
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.SignupForm.resources
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.LoginForm.resources
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.WinForm.Stt_Form.resources
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.WinForm.UpdateForm.resources
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.WinForm.WithdrawForm.resources
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\user\Desktop\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\AutoItX3.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\AutoItX3_x64.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.WinForm.GuideForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.WinForm.KeySetForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.WinForm.MacroSetForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.MainForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.WinForm.Progress.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.RecordForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.SignupForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.LoginForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.WinForm.Stt_Form.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.WinForm.UpdateForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.WinForm.WithdrawForm.resources
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\dl184\OneDrive\바탕 화면\Client3\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\AutoItX3.dll
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\AutoItX3_x64.dll
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.WinForm.GuideForm.resources
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.WinForm.KeySetForm.resources
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.WinForm.MacroSetForm.resources
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.MainForm.resources
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.WinForm.Progress.resources
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.RecordForm.resources
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.SignupForm.resources
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.LoginForm.resources
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.WinForm.Stt_Form.resources
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.WinForm.UpdateForm.resources
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.WinForm.WithdrawForm.resources
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\user\Desktop\가연\Client3\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.csproj.AssemblyReference.cache
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.WinForm.GuideForm.resources
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.WinForm.KeySetForm.resources
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.WinForm.MacroSetForm.resources
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.MainForm.resources
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.WinForm.Progress.resources
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.RecordForm.resources
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.SignupForm.resources
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.LoginForm.resources
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.WinForm.Stt_Form.resources
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.WinForm.UpdateForm.resources
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.WinForm.WithdrawForm.resources
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.csproj.GenerateResource.cache
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.exe
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.pdb
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\AutoItX3.dll
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\AutoItX3_x64.dll
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\Client3.exe.config
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\Client3.exe
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\Client3.pdb
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Buffers.dll
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Memory.dll
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Text.Json.dll
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.ValueTuple.dll
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Buffers.xml
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Memory.xml
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Text.Json.xml
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\bin\Debug\System.ValueTuple.xml
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.Properties.Resources.resources
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.csproj.CoreCompileInputs.cache
+C:\Users\pdypd\Desktop\새 폴더\project\TT_V_5.1\Client3\Client3\obj\Debug\Client3.csproj.CopyComplete
