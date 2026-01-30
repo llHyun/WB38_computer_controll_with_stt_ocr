@@ -27,7 +27,7 @@ Voice Recognition Computer Control System
 
 2. 👁️ OCR (Optical Character Recognition)
 
-화면 텍스트 인식: 사용자가 **'선택'**이라는 명령어를 말하면 현재 화면을 캡처합니다.
+화면 텍스트 인식: 사용자가 '선택'이라는 명령어를 말하면 현재 화면을 캡처합니다.
 
 좌표 추출 및 제어: Google Cloud Vision API를 통해 화면 내 텍스트의 좌표를 추출하고, 해당 위치에 마우스 클릭 이벤트를 발생시킵니다.
 
@@ -36,6 +36,8 @@ Voice Recognition Computer Control System
 특징 추출: 입력된 음성 데이터에서 MFCC(Mel-frequency cepstral coefficients) 특징을 추출합니다.
 
 딥러닝 모델: 추출된 데이터를 LSTM(Long Short-Term Memory) 모델에 학습시켜, 등록된 화자의 목소리인지 판별합니다.
+
+
 
 🛠️ 기술 스택 (Tech Stack)
 Development Environment
@@ -64,10 +66,15 @@ Azure Cognitive Services Speech (STT)
 
 편의성 증대: 업무, 여가, 일상생활 등 다양한 환경에서 하드웨어 조작 없이 능동적이고 효율적인 컴퓨터 제어가 가능합니다.
 
+
 👥 팀원 (Team)
 Role	Name
 팀장	이도현
+
 팀원	노가연
+
 팀원	박도연
+
 팀원	유진수
+
 팀원	조용호
