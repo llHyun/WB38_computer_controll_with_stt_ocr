@@ -36,31 +36,14 @@ Voice Recognition Computer Control System
 특징 추출: 입력된 음성 데이터에서 MFCC(Mel-frequency cepstral coefficients) 특징을 추출합니다.
 
 딥러닝 모델: 추출된 데이터를 LSTM(Long Short-Term Memory) 모델에 학습시켜, 등록된 화자의 목소리인지 판별합니다.
-.
-
 
 
 🛠️ 기술 스택 (Tech Stack)
-Development Environment
-
-Category	Details
-OS	
-IDE	
-Database	
-Languages & Frameworks
-
-Category	Details
-Languages	
-Server	
-Libraries & APIs
-
-AI/ML: Tensorflow, Librosa (Audio Analysis)
-
-Cloud API:
-
-Google Cloud Vision v1 (OCR)
-
-Azure Cognitive Services Speech (STT)
+- 개발 환경: Windows 11
+개발 언어: C# / Phython 3.11.5 / JavaScript
+- 개발 도구: Visual Studio 2022 / Visual Studio Code / Jupyter Notebook / MySQL
+라이브러리 : Tensorflow / librosa / google.cloud.vision_v1(Google OCR api)
+               azure.cognitiveservices.speech(AZURE STT api) / Node.js
 
 
 🚀 기대 효과
@@ -70,14 +53,11 @@ Azure Cognitive Services Speech (STT)
 
 
 👥 팀원 (Team)
-Role	Name
 
-팀장	이도현
+팀장:	이도현
 
-팀원	노가연
+팀원:	노가연, 박도연, 유진수, 조용호
 
-팀원	박도연
+<img width="905" height="465" alt="image" src="https://github.com/user-attachments/assets/870ed7aa-c52b-4ab1-a139-9faa62cc988d" />
+<img width="923" height="688" alt="image" src="https://github.com/user-attachments/assets/2c285aef-fbd8-4684-a4ef-9870ad1da025" />
 
-팀원	유진수
-
-팀원	조용호
