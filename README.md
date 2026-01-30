@@ -36,6 +36,7 @@ Voice Recognition Computer Control System
 특징 추출: 입력된 음성 데이터에서 MFCC(Mel-frequency cepstral coefficients) 특징을 추출합니다.
 
 딥러닝 모델: 추출된 데이터를 LSTM(Long Short-Term Memory) 모델에 학습시켜, 등록된 화자의 목소리인지 판별합니다.
+.
 
 
 
@@ -61,6 +62,7 @@ Google Cloud Vision v1 (OCR)
 
 Azure Cognitive Services Speech (STT)
 
+
 🚀 기대 효과
 접근성 향상: 신체적 제약 등으로 키보드/마우스 사용이 어려운 사용자에게 컴퓨터 접근 기회를 제공합니다.
 
@@ -69,6 +71,7 @@ Azure Cognitive Services Speech (STT)
 
 👥 팀원 (Team)
 Role	Name
+
 팀장	이도현
 
 팀원	노가연
